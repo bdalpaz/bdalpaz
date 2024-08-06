@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the development of histograms and statistics.<br>⚡ i love horror movies
+🔭 I’m currently working on the development of histograms and statistics.<br>⚡ i love slasher movies
 
 
 # 💻 Tech Stack:
