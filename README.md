@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>⚡ I love slasher movies
+⚡ I love slasher movies
 
 
 
