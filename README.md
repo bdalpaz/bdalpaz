@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alice</h1>
-<h3 align="center">a system analyst</h3>
+<h3 align="center">a dev and system analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdalpaz&label=Profile%20views&color=0e75b6&style=flat" alt="bdalpaz" /> </p>
 
