@@ -3,14 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdalpaz&label=Profile%20views&color=0e75b6&style=flat" alt="bdalpaz" /> </p>
 
-- 🔭 I’m currently working on **requirements engineering and also improving my analytical skills**
+### 👩‍💻 About Me
 
-- 🌱 I’m currently learning **automated tests**
+- 💼 Currently working as a **React and Java Developer**  
+- 🧠 Passionate about **system analysis** and software quality  
+- 🛠️ I also work as a **freelancer**, creating **prototypes, landing pages, and UI concepts**  
+- 🔒 Currently studying **Cybersecurity**, exploring network security, vulnerabilities, and ethical hacking  
+- 🎸 I love **rock ’n’ roll** and **slasher movies**  
+- ⚡ Fun fact: **Grace Hopper** coined the term “bug” after finding a real moth causing a computer malfunction 🪲  
 
-- 💬 Ask me about **rock n roll bands and slasher movies**
-
-- ⚡ Fun fact **Grace Hopper popularized the term "bug" in computing after a real moth was found causing a malfunction in the Harvard Mark II, which she famously taped into the logbook as the "first actual case of a bug being found."**
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alice-dal-paz-2a255a283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alice-dal-paz-2a255a283" height="30" width="40" /></a>
