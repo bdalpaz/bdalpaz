@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Alice</h1>
+<h3 align="center">a dev and system analyst</h3>
+
 # 💫 About Me:
 💼 Currently working as a React and Java Developer<br>🧠 Passionate about system analysis and software quality  <br>🛠️ I also work as a freelancer, creating prototypes, landing pages, and UI concepts<br>🔒 Currently studying Cybersecurity, exploring network security, vulnerabilities, and ethical hacking  <br>🎸 I love rock ’n’ roll and slasher movies<br>⚡ Fun fact: Grace Hopper coined the term “bug” after finding a real moth causing a computer malfunction 🪲  <br>
 
